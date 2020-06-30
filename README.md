@@ -15,6 +15,7 @@ it consist of multiple parts:
 
 ## status
 currently this is just an idea & brainstorming collection.
+see [research.md](research.md)
 
 ---
 
