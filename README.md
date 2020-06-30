@@ -3,12 +3,18 @@
 # subluceo
 subluceo is a OpenHardware stand to light up transparent things like crystals or acrylic decoration objects
 
+focus is on smooth animations and high color fidelity.
+(no flickering allowed ;-) )
+
 [subluceo](https://www.albertmartin.de/latein/?q=subluceo) means `unten hervorleuchten` → glow from below.
 
 it consist of multiple parts:
 - base housing
 - led module
 - control module
+
+## status
+currently this is just an idea & brainstorming collection.
 
 ---
 
